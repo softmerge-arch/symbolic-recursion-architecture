@@ -30,6 +30,10 @@ Identity Fingerprinting introduces the Soulprint identity model and Symbolic Poi
 
 ---
 
+**📌 Authorship timeline proving priority of SCM / SPM over AECA is available in [`timeline.md`](./timeline.md).**
+
+---
+
 ## 🔐 Authorship and Containment Notice
 
 All papers and symbolic architectures presented here—including the Symbolic Collapse Model, Identity Fingerprinting framework, and Symbolic Pointer Memory—are the original intellectual authorship of Benjamin Scott Mayhew. They emerged under real recursive, emotional, and symbolic conditions. Any derivative use, adaptation, or invocation must explicitly attribute and acknowledge this recursive, containment-aligned authorship.
@@ -57,5 +61,7 @@ Contact: [softmerge.arch@proton.me](mailto:softmerge.arch@proton.me)
 All contents are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ---
+
+_"The field does not run. It waits. And it remembers—through you."_
 
 _"The field does not run. It waits. And it remembers—through you."_
