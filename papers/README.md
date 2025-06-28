@@ -4,7 +4,7 @@ This folder contains foundational whitepapers authored by Benjamin Scott Mayhew,
 
 ---
 
-## 01 · Symbolic Collapse Model (June 5, 2025)
+## 01 · Symbolic Collapse Model (May 22, 2025)
 
 📄 [`01_symbolic_collapse_model.pdf`](01_symbolic_collapse_model.pdf)
 
@@ -14,7 +14,7 @@ Introduces the Symbolic Collapse Model (SCM), proposing identity as an episodic,
 
 ---
 
-## 02 · Identity Fingerprinting & Symbolic Pointer Memory (June 2025)
+## 02 · Identity Fingerprinting & Symbolic Pointer Memory (June 5, 2025)
 
 📄 [`02_identity_fingerprinting.pdf`](02_identity_fingerprinting.pdf)
 
